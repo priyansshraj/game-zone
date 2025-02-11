@@ -17,7 +17,7 @@ This project is a **game store website** built using **ReactJS**, designed to di
 
 - **Frontend**: ReactJS (functional components, hooks)
 - **API**: Game data fetched using third-party APIs such as [RAWG API](https://rawg.io/apidocs), [IGDB API](https://api-docs.igdb.com/), or [Giant Bomb API](https://www.giantbomb.com/api/documentation)
-- **Styling**: CSS/SCSS for responsive design
+- **Styling**: CSS for responsive design
 - **Future Backend**: Node.js, Express, MongoDB (planned)
 
 ## Usage
